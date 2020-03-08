@@ -1,1 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PKHeX.Core\PKHeX.Core.csproj" />
+  </ItemGroup>
+
+</Project>
 <PK8toPK7.exe>[bunch of options] [looooong list of .vb files]
